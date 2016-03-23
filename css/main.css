@@ -48,3 +48,13 @@ body {
   bottom: 188px;
   right: 96px;
 }
+
+.robot:hover .robot-head-right {
+  bottom: 200px;
+  left: 200px;
+}
+
+.robot:hover .robot-head-left {
+  bottom: 200px;
+  right: 120px;
+}
